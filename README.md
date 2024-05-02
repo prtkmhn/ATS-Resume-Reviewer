@@ -12,7 +12,7 @@ The Resume and Job Application Assistant is an AI-powered tool that helps job se
 
 ## Technologies Used 🛠️
 
-- Python 🐍
+- Python  🐍
 - Gradio 🌐: A Python library for building web-based user interfaces
 - Google Generative AI 🧠: A suite of powerful language models and vision models
 - pytesseract 📝: An optical character recognition (OCR) engine
