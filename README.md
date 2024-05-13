@@ -10,6 +10,19 @@ The Resume and Job Application Assistant is an AI-powered tool that helps job se
 - **Intelligent Chatbot** 💬: Engage in a conversation with the AI-powered chatbot to get answers to your questions and receive guidance throughout the job application process. The chatbot is trained on the job description and your resume to provide context-aware responses.
 - **Image Upload** 🖼️: Enhance your interaction with the chatbot by uploading images related to your questions or the job application. The assistant can analyze the images and provide relevant insights.
 
+Demo
+![image](https://github.com/prtkmhn/ATS-Resume-Reviewer/assets/20372226/9a06a624-5450-418c-a73c-69521f8df8e7)
+
+
+![image](https://github.com/prtkmhn/ATS-Resume-Reviewer/assets/20372226/02c51b6b-0671-43bb-a9af-95b5cf5ed483)
+
+Please input the job description and your resume in text format, then click 'Process'. 
+
+After processing, you will be able to view the ATS score and the keywords identified in your resume.
+![image](https://github.com/prtkmhn/ATS-Resume-Reviewer/assets/20372226/6228c2d0-73e8-4a70-b53d-4859447cde68)
+
+
+
 ## Technologies Used 🛠️
 
 - Python  🐍
